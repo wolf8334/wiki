@@ -1,3 +1,0 @@
-前些日子，因为项目上需要，研究了一下关于nginx和tomcat做负载均衡的东西。
-虽然这些东西网上大把，但是觉得自己验证过的还是靠谱一些。先占个位置，回头有空了把详细过程记录下来。
-原料:nginx最新版，tomcat7 or tomcat8，nginx-sticky module。建议Linux环境，windows下我不想折腾这些，windows下我只想休息。
